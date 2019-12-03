@@ -1,4 +1,3 @@
-# Deep_learning_notebook
+# ML_notebook
 
-- Andrew Ng's deep learning course.
-- Hands-On Machine Learning with Scikit-Learn & TensorFlow
+Hands-On Machine Learning with Scikit-Learn & TensorFlow
